@@ -23,7 +23,7 @@
 
 ![Stone GitHub stats](https://github-readme-stats.vercel.app/api?username=stonejppj&show_icons=true&bg_color=00000000&title_color=E94D5F&text_color=FFF&border_color=30A3DC)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoneJPPJ&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoneJPPJ&layout=compact&bg_color=00000000)
 
 </div>
 

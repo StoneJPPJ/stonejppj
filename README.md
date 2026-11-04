@@ -21,9 +21,9 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-![Stone GitHub stats](https://github-readme-stats.vercel.app/api?username=stonejppj&show_icons=true&bg_color=00000000&title_color=E94D5F&text_color=FFF&border_color=30A3DC)
+![Stone GitHub stats]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoneJPPJ&layout=compact&bg_color=00000000)
+![Top Langs]()
 
 </div>
 

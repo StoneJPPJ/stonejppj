@@ -1,0 +1,29 @@
+README DO PERFIL — JOÃO PEDRO / STONE
+
+Abra preview.html para visualizar a composição animada em inglês.
+Abra preview.pt-BR.html para a versão em português.
+Essa é uma prévia local aproximada: a moldura e o texto seguem o tema escolhido no GitHub.
+
+Para aplicar no perfil StoneJPPJ:
+1. Copie README.md, README.pt-BR.md e a pasta profile-assets para a raiz do repositório StoneJPPJ/stonejppj.
+2. Preserve os caminhos dos arquivos. Não basta copiar apenas o texto do README, pois as imagens são locais.
+3. A versão em inglês é a principal; o link no topo abre a versão em português.
+
+O README do repositório new-site é a documentação do site e não é o destino deste material.
+
+ANIMAÇÕES
+O cabeçalho SVG tem luz azul/ultravioleta no nome, estrelas e o mascote com quiques suaves e movimento dos olhos.
+Há versões para telas estreitas e alternativas estáticas selecionadas por prefers-reduced-motion.
+No README não há JavaScript: o olhar se move em uma sequência automática, sem seguir o cursor.
+O GIF e PNG de prévia são amostras; o README usa SVGs locais mais leves.
+
+MANUTENÇÃO
+Textos e links: README.md e README.pt-BR.md.
+Artes e ícones: profile-assets/.
+Animações: regras CSS e animateTransform nos arquivos hero-*.svg.
+Os links de estatísticas do README antigo estavam vazios; não foram incluídas métricas fictícias nem widgets externos.
+Os arquivos estão prontos para revisão. Nada foi enviado ao GitHub nesta etapa.
+
+Referências de compatibilidade:
+https://github.com/github/markup
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax

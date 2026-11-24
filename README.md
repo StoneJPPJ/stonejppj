@@ -1,6 +1,6 @@
 <p align="right"><a href="./README.pt-BR.md">Português</a></p>
 
-<a href="https://www.joaostone.com/">
+<a href="[https://www.joaostone.com/](https://joaostone.com/)">
   <picture>
     <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./profile-assets/hero-mobile-en-static.svg">
     <source media="(prefers-reduced-motion: reduce)" srcset="./profile-assets/hero-en-static.svg">
